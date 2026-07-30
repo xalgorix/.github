@@ -4,7 +4,7 @@
 Security is our top priority. If you discover a vulnerability in Xalgorix, please follow responsible disclosure practices.
 
 ### How to Report
-- Email your findings directly to **xalgord@gmail.com**
+- Email your findings directly to **security@xalgorix.com**
 - Include steps to reproduce, impact analysis, and proof-of-concept if available.
 
 ### Our Commitment
